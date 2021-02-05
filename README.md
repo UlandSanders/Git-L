@@ -1,3 +1,6 @@
 ### Git-L
-Git-L, Is A Experiment For A Code That Loads "Search Engines" Into An HTML Source.
-
+##### Made By Uland Sanders 
+###
+### About
+Git-L Is An Open-Source Code, Created So Search Engines Could Be Implemented Into Virtia.
+###### Git-L Created In CSS
