@@ -1,5 +1,5 @@
 ### Git-L
-##### Made By Uland Sanders 
+Made By Uland Sanders 
 ###
 ### About
 Git-L Is An Open-Source Code, Created So Search Engines Could Be Implemented Into Virtia.
